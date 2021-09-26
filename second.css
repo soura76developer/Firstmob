@@ -1,0 +1,151 @@
+.container
+{
+    width: 300px;
+    height: 500px;
+    
+    border-width: thin;
+    margin-left: 500px;
+    
+    border-style: none;
+   
+
+}
+
+.tasklist
+{
+    display: flex;
+}
+
+.tasks
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    font-weight: bolder;
+    margin-left: 20px;
+    margin-top: 30px;
+    
+
+}
+
+
+.lists
+{
+    font-family:  'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    font-weight: 100;
+    margin-left: 10px;
+    color: gray;
+    
+}
+
+.button
+{
+    width: 30px;
+    height:30px;
+    border-radius: 50%;
+    font-size: 23px;
+    color: white;
+    background-color: orangered;
+    border-style: none;
+    margin-top:35px ;
+    margin-left:10px ;
+    box-shadow: 2px 2px 2px gray;
+    font-size: 25px;
+    cursor: pointer;
+
+}
+
+.esemble
+{
+    display: flex;
+    margin-top: 5px;
+    
+}
+
+
+.flex{
+    /*display: flex;*/
+    width: 250px;
+    height: 350px;
+    border-style: solid;
+    border-color: orangered;
+    border-radius: 10px;
+    margin-left:50px ;
+    border-width: thin;
+    margin-top: 50px;
+   box-shadow: 3px 3px 7px gray  ; 
+    margin-top: 50px ;
+    margin-left: 25px;
+    
+   
+    
+}
+
+.trip
+{
+    margin-left: 50px;
+}
+.trip1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: orangered;
+    font-weight:500;
+    font-size: 25px;
+}
+
+
+.complited
+{
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: rgb(236, 33, 6);
+    font-weight: 900;
+    font-size: larger;
+    margin-left: 50px;
+    margin-top: 50px;
+    
+    
+
+}
+.pending
+{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    
+}
+.checkbox{
+    margin-left: 40px;
+    margin-top: 10px;
+    font-size: 20px;
+
+}
+
+.button2
+{
+    width: 35px;
+    height: 35px;
+    border-radius:50%;
+    margin-top: 10px;
+    margin-right: 10px;
+    border-color: orangered;
+    background-color: orangered;
+    color: white;
+    border-style: none;
+    font-size: 25px ;
+    cursor: pointer;
+}
+
+.button21{
+    margin-left: 200px;
+    margin-top: 106px;
+}
+
+.button:hover{
+
+    background-color: rgb(255, 21, 0);
+}
+
+.button2:hover{
+
+    background-color: rgb(255, 21, 0);
+}
