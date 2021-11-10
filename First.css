@@ -91,3 +91,109 @@
     background-color: rgb(255, 21, 0);
 }
 
+@media(max-width:680px) {
+
+    .container
+    {
+        position: absolute;
+        width:70%;
+        height:222%;
+        margin-right: 1px;
+
+        border-style: none;
+        border-width: none;
+        margin-left: none;
+        border-color: whitesmoke;
+        box-shadow: none;
+    }
+
+    .esemble
+    {
+        position: absolute;
+       
+        background-color:none;
+        margin-left: -450px;
+        width:355%;
+
+    }
+
+    .tasklist
+    {
+        position: absolute;
+        width:80%;
+        height: 300%;
+        background-color: none;
+        margin-top: 60px;
+    }
+    
+    .tasks
+    {
+        position:relative;
+        width:150px;
+        height: 100px;
+        font-size: 130px;
+        color: black;
+    }
+
+    .lists
+    {
+        position: relative;
+        width: 150px;
+        height: 100px;
+        font-size: 130px;
+        margin-left: 175px;
+
+    }
+
+    .button
+    {
+        position: relative;
+        width: 100px;
+         height:100px;
+        border-radius: 50%;
+        font-size: 80px;
+        color: white;
+     background-color: orangered;
+     border-style: none;
+     margin-top: 170px ;
+     margin-left:660px ;
+     box-shadow: 2px 2px 2px gray;
+     cursor: pointer;
+
+    }
+
+    .button:hover
+{
+    background-color: rgb(255, 21, 0);
+}
+
+    .bigbox
+    {   
+        position: inherit;
+        margin-top: 370px;
+    }
+
+    .box
+    {
+        width:820px ;
+        height: 190px;
+        border-style: solid;
+        border-color: rgb(255, 195, 173);
+        border-width: thin;
+        margin-bottom: 60px;
+        margin-left:-450px ;
+        border-radius: 15px;
+        box-shadow: 2px 2px 5px gray;
+
+    }
+
+    .p
+{
+    font-family: 'Arial Narrow', Arial, sans-serif ;
+    margin-left: 10px;
+    color: gray;
+    font-size: 70px;
+
+}
+    
+}
