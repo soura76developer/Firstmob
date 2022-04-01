@@ -77,14 +77,21 @@
     box-shadow: 2px 2px 5px gray;
 }
 
-.p
+
+    .p
 {
     font-family: 'Arial Narrow', Arial, sans-serif ;
+    font-weight: 800;
     margin-left: 10px;
+    margin-top: 15px;
     color: gray;
     font-size: 17px;
+    background-color: white;
+    border: none;
 
 }
+
+
 
 .button:hover
 {
